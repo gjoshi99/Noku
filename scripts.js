@@ -210,11 +210,7 @@ doc.text('25%', 138,222)
 
 
 doc.setFont("helvetica","bold");
-
-setTimeout(() => {
-    console.log(momsResult);
-}, 20000);
-
+         
 // payment method
 doc.text('kort', 170,239);
 doc.rect(179,236, 5,5);
