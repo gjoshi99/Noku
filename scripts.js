@@ -253,7 +253,6 @@ doc.setFont("helvetica", "normal");
 
 doc.text('5980-1555', 185,250)
 doc.text('559428-8036', 165,265)
-doc.text('VAT-nr:SE556735296701', 165,273)
 
 
 
