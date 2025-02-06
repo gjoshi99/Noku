@@ -198,7 +198,7 @@ doc.text(`${total}`, 190,210)
 // moms beräkningen
 doc.line(128,212,203,212)
 doc.text('Moms', 191,215)
-doc.text(`${momsResult},00`, 192,222);
+doc.text(`${momsResult}`, 192,222);
 
 // moms underlag
 doc.text('Momsunderlag', 160,215);
