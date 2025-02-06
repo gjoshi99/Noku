@@ -261,6 +261,6 @@ doc.text('VAT-nr:SE556735296701', 165,273)
 const pdfUrl = doc.output("bloburl");
 
  window.open(pdfUrl)
-//  doc.save(`${Regnummer.value.toUpperCase()} service.pdf`)
+ doc.save(`${Regnummer.value.toUpperCase()} service.pdf`)
 }
 })
